@@ -1,0 +1,24 @@
+/*over-ride some basics*/
+.text-faded {
+	color: rgba(255,255,255,.8);
+}
+
+.top-space {
+	margin-top: 1em;
+}
+
+.face {
+	width:70%;
+}
+
+p.about-us {
+	margin-top: 2.7em;
+	font-size: 1.7em;
+	text-align: justify;
+}
+
+#cta {
+	padding-bottom: 0;
+}
+
+
